@@ -4,7 +4,29 @@ body {
 }
 
 #top {
-  background-image: url("./css/imgage/the-flatiron-building.png");
-  color: green;
+  background-image: url("./img/the-flatiron-building.png");
+  color: white;
 }
-m
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+li {
+  font-size: 18px;
+}
+
+a {
+  color: white;
+}
+
+h4 {
+  background-image: url("./img/the-flatiron-building.png");
+  color: white;
+}
